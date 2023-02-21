@@ -1,2 +1,2 @@
-# childStatreUpdatefromParent
+# UpDateChild
 Created with CodeSandbox
